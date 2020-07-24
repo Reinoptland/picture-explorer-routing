@@ -62,7 +62,7 @@ DONE!
   - X useEffect
   - X async function
   - X useState hook (to store dynamic data)
-- Display the picture
+- X Display the picture
 
 ## As a user I want to use this app online
 

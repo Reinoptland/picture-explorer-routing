@@ -21,5 +21,10 @@ export default function PictureDetails() {
   }, [pictureId]);
   console.log("DETAILS IN COMPONENT:", pictureDetails);
 
-  return <div>DETAILS ...</div>;
+  return (
+    <div>
+      <h1>{pictureDetails.author}</h1>
+      <img src={pictureDetails.download_url} />
+    </div>
+  );
 }
