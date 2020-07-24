@@ -18,5 +18,21 @@ export default function PicturePage() {
   // - whatever we got from the api
   // - Empty array first, then an array of objects (from the api) ?
   //
-  return <div>PICTURES HERE, TODO</div>;
+  return (
+    <div>
+      <h1>Pictures</h1>{" "}
+      <div>
+        {pictures.map((picture) => {
+          // we will get on picture at a time
+          console.log("PICTURE IN MAP:", picture);
+          return (
+            <div>
+              <img height="150px" src={picture.download_url} />
+              <p>{picture.author}</p>
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  );
 }

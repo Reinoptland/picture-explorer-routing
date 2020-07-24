@@ -35,10 +35,10 @@
     - X api (https://picsum.photos/v2/list)
     - X useEffect
     - X async function
-    - useState hook (to store dynamic data)
+    - X useState hook (to store dynamic data)
   - Display the pictures
-    - map the array
-    - Write JSX
+    - X map the array
+    - X Write JSX
 
 DONE!
 
