@@ -24,20 +24,21 @@
 
 - Picture Page
 
-  - Component
-  - Make a Route for our page -> path etc ..
-  - Link to go the page
+  - X Component
+  - X Import component in App
+  - X Make a Route for our page -> path etc ..
+  - X Link to go the page
 
 - Display some pictures
   - Fetch some data
-    - axios
-    - api
-    - useEffect
-    - async function
-    - useState hook (to store dynamic)
+    - X axios
+    - X api (https://picsum.photos/v2/list)
+    - X useEffect
+    - X async function
+    - X useState hook (to store dynamic data)
   - Display the pictures
-    - map the array
-    - Write JSX
+    - X map the array
+    - X Write JSX
 
 DONE!
 
