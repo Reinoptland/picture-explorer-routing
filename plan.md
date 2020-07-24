@@ -14,13 +14,13 @@
 
 - Setup React Router
 
-  - npm install
-  - import the components for React Router
-  - "Wrap" our entire app in a Router
-  - Switch
-    - Route for HomePage
-  - Navigation
-    - Link for each existing Route
+  - X npm install
+  - X import the components for React Router
+  - X "Wrap" our entire app in a Router
+  - X Switch
+    - X Route for HomePage
+  - X Navigation
+    - X Link for each existing Route
 
 - Picture Page
 
