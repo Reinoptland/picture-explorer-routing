@@ -57,11 +57,11 @@ DONE!
   - X useParams to get the id of the picture
 
 - Fetch data (the url of the picture, depends on the api)?
-  - Fetch some data
-  - api ..?
-  - useEffect
-  - async function
-  - useState hook (to store dynamic data)
+  - X Fetch some data
+  - X api (https://picsum.photos/id/0/info)
+  - X useEffect
+  - X async function
+  - X useState hook (to store dynamic data)
 - Display the picture
 
 ## As a user I want to use this app online
