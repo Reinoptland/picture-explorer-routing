@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
+import { Link } from "react-router-dom";
 
 export default function PicturePage() {
   const [pictures, setPictures] = useState([]);
@@ -29,6 +30,7 @@ export default function PicturePage() {
             <div>
               <img height="150px" src={picture.download_url} />
               <p>{picture.author}</p>
+              <Link to={`/pictures/${picture.id}`}>See In High Res</Link>
             </div>
           );
         })}

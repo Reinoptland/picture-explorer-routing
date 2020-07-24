@@ -50,7 +50,7 @@ DONE!
 
   - X Component (Detail Page)
   - X We need a Route (dynamic route, with :pictureId)
-  - A Link for every picture to navigate to detail page for that picture
+  - X A Link for every picture to navigate to detail page for that picture ..??
 
 - Figure out which picture we need to display
 
