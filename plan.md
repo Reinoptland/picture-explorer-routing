@@ -54,7 +54,7 @@ DONE!
 
 - Figure out which picture we need to display
 
-  - useParams to get the id of the picture
+  - X useParams to get the id of the picture
 
 - Fetch data (the url of the picture, depends on the api)?
   - Fetch some data
