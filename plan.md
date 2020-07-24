@@ -24,9 +24,10 @@
 
 - Picture Page
 
-  - Component
-  - Make a Route for our page -> path etc ..
-  - Link to go the page
+  - X Component
+  - X Import component in App
+  - X Make a Route for our page -> path etc ..
+  - X Link to go the page
 
 - Display some pictures
   - Fetch some data
