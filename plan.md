@@ -44,6 +44,26 @@ DONE!
 
 ## As a person who wants to see some nice pictures I want to be able to see one picture full screen so I can admire it in high resolution
 
+## What do we need?
+
+- Routing
+
+  - Component (Detail Page)
+  - We need a Route (dynamic route, with :pictureId)
+  - A Link for every picture to navigate to detail page for that picture
+
+- Figure out which picture we need to display
+
+  - useParams to get the id of the picture
+
+- Fetch data (the url of the picture, depends on the api)?
+  - Fetch some data
+  - api ..?
+  - useEffect
+  - async function
+  - useState hook (to store dynamic data)
+- Display the picture
+
 ## As a user I want to use this app online
 
 - Add \_redirects folder to public
